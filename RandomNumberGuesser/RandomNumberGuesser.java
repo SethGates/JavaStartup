@@ -1,3 +1,4 @@
+package RandomNumberGuesser;
 import java.util.Scanner;
 
 public class RandomNumberGuesser {
